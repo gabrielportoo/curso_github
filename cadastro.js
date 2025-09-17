@@ -3,3 +3,7 @@ function signUp(email, password) {
 }
 
 // pegando o email e cadastrando na plataforma
+
+function mostraMensagem() {
+  return "Bem vindo ao sistema";
+}
