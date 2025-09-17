@@ -7,3 +7,5 @@ function signUp(email, password) {
 function mostraMensagem() {
   return "Bem vindo ao sistema";
 }
+
+// adicionando função de mensagem
